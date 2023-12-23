@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Ban_Ve_Xe", "Api_Ban_Ve_Xe\Api_Ban_Ve_Xe.csproj", "{3755C898-E743-4598-97FD-D387505651E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3755C898-E743-4598-97FD-D387505651E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3755C898-E743-4598-97FD-D387505651E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3755C898-E743-4598-97FD-D387505651E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3755C898-E743-4598-97FD-D387505651E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77456D82-BD22-45F1-A94D-520B0A0F3B49}
+	EndGlobalSection
+EndGlobal
